@@ -1,10 +1,22 @@
 ## Members
+##### Josep Subils
 
-### Girona Javascript Developers Group
-Josep Subils [http://js.gl](https://js.gl)
+[Personal web page](https://js.gl)
 
-Eudald Dachs [https://github.com/eudago](Github) [https://es.linkedin.com/in/eudald-dachs-8442a9121](Linkedin)
+[Github](https://github.com/warlock)
 
-Simon Campos [https://github.com/Sym313](Github)
+[Npm](https://npmjs.com/~josep)
 
-Quico Pazo [https://es.linkedin.com/in/quico-pazo-comas-273183100](Linkedin)
+##### Eudald Dachs
+
+[Github](https://github.com/eudago)
+
+[Linkedin](https://es.linkedin.com/in/eudald-dachs-8442a9121)
+
+##### Simon Campos
+
+[Github](https://github.com/Sym313)
+
+##### Quico Pazo
+
+[Linkedin](https://es.linkedin.com/in/quico-pazo-comas-273183100)
