@@ -1,2 +1,2 @@
-# http://girona.js.gl
-Grup de programadors Javascript Gironins
+# Girona Javascript Developers Group
+
