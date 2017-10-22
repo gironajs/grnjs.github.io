@@ -20,3 +20,11 @@
 ##### Quico Pazo
 
 [Linkedin](https://es.linkedin.com/in/quico-pazo-comas-273183100)
+
+##### Teo Martinez
+
+[Github](https://github.com/sephirothteo)
+
+##### Julia Kremlova
+
+[Personal Web Page](http://designart.online)
