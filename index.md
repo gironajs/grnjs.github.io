@@ -1,8 +1,8 @@
 ## Projectes en equip:
 - PongTard (Nom provisional)
-  - Server en Node.Js
-  - Mainboard en Unity 3d
-  - Pad per Android en Unity3d
+  - [Server en Node.Js](https://github.com/gironajs/pongtard-server)
+  - [Mainboard en Unity 3d](https://github.com/gironajs/pongtard-mainboard)
+  - [Pad per Android en Unity3d](https://github.com/gironajs/pongtard-pad)
 
 
 ## Membres
