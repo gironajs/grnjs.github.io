@@ -1,4 +1,11 @@
-## Members
+## Projectes en equip:
+- PongTard (Nom provisional)
+  - Server en Node.Js
+  - Mainboard en Unity 3d
+  - Pad per Android en Unity3d
+
+
+## Membres
 ##### Josep Subils
 
 [Personal web page](https://js.gl)
