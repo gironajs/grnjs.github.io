@@ -14,6 +14,10 @@
 
 [Npm](https://npmjs.com/~josep)
 
+##### Julia Kremlova
+
+[Personal Web Page](https://girona.dev)
+
 ##### Eudald Dachs
 
 [Github](https://github.com/eudago)
@@ -24,14 +28,8 @@
 
 [Github](https://github.com/Sym313)
 
-##### Quico Pazo
-
-[Linkedin](https://es.linkedin.com/in/quico-pazo-comas-273183100)
-
 ##### Teo Martinez
 
 [Github](https://github.com/sephirothteo)
 
-##### Julia Kremlova
 
-[Personal Web Page](http://designart.online)
